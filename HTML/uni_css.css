@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 1500px;
+    padding: 20px;
+}
+
+pre {
+    color: dodgerblue;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.poem {
+    border: 2px solid darkblue;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    width: 500px;
+}
+
+img {
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    
+}
+
+.img{
+    margin: auto;
+    width: 400px;  
+}
+
+:is(h1 , h2) {
+    color: slateblue;
+}
